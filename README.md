@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vedika Gupta!  
 
-🔍 **Aspiring Data Scientist | Web Developer | AI Enthusiast**  
+🔍 **Aspiring Data Scientist | Python | ML Enthusiast**  
 
 ---
 
