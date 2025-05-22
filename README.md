@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vedika Gupta!  
+# Hi, I’m Vedika Gupta!  
 
 🔍 **Aspiring Data Scientist | Python | ML Enthusiast**  
 
