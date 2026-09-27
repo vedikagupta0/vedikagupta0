@@ -7,7 +7,7 @@
 
 I'm a **Data Science undergrad at IIT Madras** (9.08 CGPA), and most nights you'll find me exactly like that picture on the right — hoodie on, city lights outside, one more cell to run before I sleep. I build retrieval systems, ML pipelines, and the occasional experiment that starts with *"wait, what if..."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=480&lines=Data+%2B+ML+%2B+curiosity;Building+RAG+systems+that+actually+cite+sources;Currently%3A+climate+x+health+prediction;Always+one+more+notebook+cell+away" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=480&lines=Data+%2B+ML+%2B+curiosity;Building+trustworthy+RAG+systems;Currently%3A+climate+x+health+prediction;Always+one+more+notebook+cell+away" alt="Typing SVG" />
 
 </td>
 <td width="35%">
