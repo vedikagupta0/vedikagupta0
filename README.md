@@ -11,7 +11,7 @@ I'm a **Data Science undergrad at IIT Madras** (9.08 CGPA), and most nights you'
 
 </td>
 <td width="35%">
-<img src="./assets/profile.png" width="100%" alt="Vedika, late-night coding session" />
+<img src="profile.png" width="100%" alt="Vedika, late-night coding session" />
 </td>
 </tr>
 </table>
